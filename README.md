@@ -71,7 +71,7 @@ npm run dev
 Need desktop binaries or full commercial white-label source code rights for agency client work?
 
 - **Desktop License ($149):** [Buy Instant Download](https://buy.polar.sh/polar_cl_yHRXs7OkyDwTtWeYVK6RggEUshUxueycMYs7e2rzzNm)
-- **Full Source Code & Agency Pass ($950):** [Buy Instant Access](https://polar.sh/checkout/polar_c_g6UbasyYXi7DttF074yWBsTBzmTkm3bSZlNKw0VF5Uv)
+- **Full Source Code & Agency Pass ($950):** [Buy Instant Access](https://buy.polar.sh/polar_cl_Ml498r5vdyyKSM8UVP8pUs3CHTOdz9dof9Oe50iPBbJ)
 
 ---
 
